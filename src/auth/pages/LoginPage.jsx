@@ -65,7 +65,7 @@ export const LoginPage = () => {
               <Button
                 type="submit"
                 variant="contained"
-                fullWidt
+                fullWidth
                 disabled={ isAuthenticating }
               >
                 Login
